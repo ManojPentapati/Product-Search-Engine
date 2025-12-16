@@ -88,7 +88,3 @@ Contributions are what make the open source community such an amazing place to l
 - Font Awesome for the excellent icon library
 - All e-commerce platforms for providing the search functionality
 - The open-source community for continuous inspiration
-
-## 📞 Support
-
-If you have any questions or need help, please [open an issue](https://github.com/yourusername/product-search-engine/issues) on GitHub.
