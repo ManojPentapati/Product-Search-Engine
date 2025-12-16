@@ -1,9 +1,5 @@
 # Product Search Engine
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/product-search-engine/pulls)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/product-search-engine)](https://github.com/yourusername/product-search-engine/graphs/contributors)
-
 A web application that allows users to search for products across multiple e-commerce platforms simultaneously. This project focuses on creating a seamless experience for comparing products and prices from various online retailers.
 
 ## 🌟 Features
